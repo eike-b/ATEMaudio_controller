@@ -1,0 +1,3 @@
+[submodule "lib/ATEMpro"]
+	path = lib/ATEMpro
+	url = https://github.com/eike-b/ATEMpro
